@@ -1,0 +1,6 @@
+@CCLAB20_HostAddress = http://localhost:5162
+
+GET {{CCLAB20_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
